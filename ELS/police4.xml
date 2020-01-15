@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- ELS VEHICLE CONFIGURATION FILE -->
-<vcfroot Description="LSPD Detective">
+<vcfroot Description="Sample VCF" Author="Luxart" >
 	<!-- INTERFACE -->
 	<INTERFACE>
-		<LstgActivationType>auto</LstgActivationType>
+		<LstgActivationType>manual</LstgActivationType>
 		<DefaultSirenMode>standby</DefaultSirenMode>
 		<InfoPanelHeaderColor>grey</InfoPanelHeaderColor>
 		<InfoPanelButtonLightColor>orange</InfoPanelButtonLightColor>
@@ -14,14 +14,14 @@
 		<Extra02 IsElsControlled="true" AllowEnvLight="true" Color="red" OffsetX="-0.25" OffsetY="-0.20" OffsetZ="0.50" />
 		<Extra03 IsElsControlled="true" AllowEnvLight="true" Color="blue" OffsetX="0.25" OffsetY="-0.20" OffsetZ="0.50" />
 		<Extra04 IsElsControlled="true" AllowEnvLight="true" Color="blue" OffsetX="0.70" OffsetY="-0.20" OffsetZ="0.50" />
-		<Extra05 IsElsControlled="false" AllowEnvLight="false" Color="red" OffsetX="-0.70" OffsetY="-0.20" OffsetZ="0.50" />
-		<Extra06 IsElsControlled="false" AllowEnvLight="false" Color="blue" OffsetX="0.70" OffsetY="-0.20" OffsetZ="0.50" />
-		<Extra07 IsElsControlled="false" AllowEnvLight="false" Color="amber" OffsetX="-0.40" OffsetY="-0.80" OffsetZ="0.40" />
-		<Extra08 IsElsControlled="false" AllowEnvLight="false" Color="amber" OffsetX="0.00" OffsetY="-0.80" OffsetZ="0.40" />
-		<Extra09 IsElsControlled="false" AllowEnvLight="false" Color="amber" OffsetX="0.40" OffsetY="-0.80" OffsetZ="0.40" />
-		<Extra10 IsElsControlled="false" />
-		<Extra11 IsElsControlled="false" />
-		<Extra12 IsElsControlled="false" />
+		<Extra05 IsElsControlled="true" AllowEnvLight="true" Color="red" OffsetX="-0.70" OffsetY="-0.20" OffsetZ="0.50" />
+		<Extra06 IsElsControlled="true" AllowEnvLight="true" Color="blue" OffsetX="0.70" OffsetY="-0.20" OffsetZ="0.50" />
+		<Extra07 IsElsControlled="true" AllowEnvLight="true" Color="amber" OffsetX="-0.40" OffsetY="-0.80" OffsetZ="0.40" />
+		<Extra08 IsElsControlled="true" AllowEnvLight="true" Color="amber" OffsetX="0.00" OffsetY="-0.80" OffsetZ="0.40" />
+		<Extra09 IsElsControlled="true" AllowEnvLight="true" Color="amber" OffsetX="0.40" OffsetY="-0.80" OffsetZ="0.40" />
+		<Extra10 IsElsControlled="true" />
+		<Extra11 IsElsControlled="true" />
+		<Extra12 IsElsControlled="true" />
 	</EOVERRIDE>
 	<!-- MISC -->
 	<MISC>
@@ -29,13 +29,13 @@
 		<ArrowboardType>off</ArrowboardType>
 		<UseSteadyBurnLights>false</UseSteadyBurnLights>
 		<DfltSirenLtsActivateAtLstg>3</DfltSirenLtsActivateAtLstg>
-		<Takedowns AllowUse="false" Mirrored="false" />
-		<SceneLights AllowUse="false" IlluminateSidesOnly="false" />	
+		<Takedowns AllowUse="true" Mirrored="true" />
+		<SceneLights AllowUse="true" IlluminateSidesOnly="true" />	
 	</MISC>
 	<!-- CRUISE -->
 	<CRUISE>
 		<DisableAtLstg3>true</DisableAtLstg3>
-		<UseExtras Extra1="true" Extra2="true" Extra3="true" Extra4="true" />
+		<UseExtras Extra1="true" Extra2="false" Extra3="false" Extra4="true" />
 	</CRUISE>
 	<!-- AUX CORONAS -->
 	<ACORONAS>
@@ -81,7 +81,7 @@
 	<PRML LightingFormat="leds" ExtrasActiveAtLstg2="1and4" >
 		<PresetPatterns>
 			<Lstg2 Enabled="false" Pattern="0" />
-			<Lstg3 Enabled="true" Pattern="137" />
+			<Lstg3 Enabled="true" Pattern="115" />
 		</PresetPatterns>
 		<ForcedPatterns>
 			<MainHorn Enabled="false" Pattern="0" />
