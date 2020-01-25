@@ -30,7 +30,7 @@
       <sirenSettings value="7000" />
     </Item>
     <Item>
-      <modelName>lssdfpis</modelName>
+      <modelName>fpis</modelName>
       <colors>
         <Item>
           <indices content="char_array">

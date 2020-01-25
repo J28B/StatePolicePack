@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>POLICE</modelName> <!--CHANGE made by Zeakor Designs-->
+      <modelName>cvpi</modelName> <!--CHANGE made by Zeakor Designs-->
       <txdName>CHPSMARTCAR</txdName>
       <handlingId>CVPI1</handlingId>
-      <gameName>SmartPolice</gameName>
+      <gameName>cvpi</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
