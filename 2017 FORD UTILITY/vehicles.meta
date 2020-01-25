@@ -6,9 +6,9 @@
     <Item>
       <modelName>dps1</modelName>
       <txdName>dps1</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>lspd16explorer</handlingId>
       <gameName>dps1</gameName>
-      <vehicleMakeName>Arizona DPS 2016 FPIU</vehicleMakeName>
+      <vehicleMakeName>Ford</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>

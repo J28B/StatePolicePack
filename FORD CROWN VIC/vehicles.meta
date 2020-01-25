@@ -6,7 +6,7 @@
     <Item>
       <modelName>POLICE</modelName> <!--CHANGE made by Zeakor Designs-->
       <txdName>CHPSMARTCAR</txdName>
-      <handlingId>POLICE2</handlingId>
+      <handlingId>CVPI1</handlingId>
       <gameName>SmartPolice</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>

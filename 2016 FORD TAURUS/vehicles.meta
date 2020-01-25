@@ -147,8 +147,8 @@
     <Item>
       <modelName>lssdfpis</modelName>
       <txdName>lssdfpis</txdName>
-      <handlingId>lssdfpis</handlingId>
-      <gameName>lssdfpis</gameName>
+      <handlingId>TAURUS</handlingId>
+      <gameName>fpis</gameName>
       <vehicleMakeName/>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>

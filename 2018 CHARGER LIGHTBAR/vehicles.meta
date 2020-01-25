@@ -6,7 +6,7 @@
     <Item>
       <modelName>CHGR</modelName> <!--2018 Dodge Charger Pursuit Edition made by Zeakor Designs-->
       <txdName>CHGR</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>CHARGER</handlingId>
       <gameName>CHGR</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
