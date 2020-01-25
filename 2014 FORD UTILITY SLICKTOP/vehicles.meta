@@ -367,11 +367,11 @@
       </firstPersonDrivebyData>
     </Item>
 	<Item>
-      <modelName>udps5</modelName>
-      <txdName>udps5</txdName>
+      <modelName>14fpiust</modelName>
+      <txdName>14fpiust</txdName>
       <handlingId>POLICE3</handlingId>
-      <gameName>udps5</gameName>
-      <vehicleMakeName>Arizona DPS 2013 FPIU Unmarked/Ghost</vehicleMakeName>
+      <gameName>14fpiust</gameName>
+      <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>

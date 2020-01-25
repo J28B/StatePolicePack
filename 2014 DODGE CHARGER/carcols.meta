@@ -5,7 +5,7 @@
   <Sirens>
 	<Item>
       <id value="116"/>
-      <name>charger5</name>
+      <name>charger6</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="100.00000000"/>
       <lightFalloffExponent value="100.00000000"/>
