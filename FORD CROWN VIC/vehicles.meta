@@ -5,7 +5,7 @@
   <InitDatas>
     <Item>
       <modelName>cvpi</modelName> <!--CHANGE made by Zeakor Designs-->
-      <txdName>CHPSMARTCAR</txdName>
+      <txdName>cvpi</txdName>
       <handlingId>CVPI1</handlingId>
       <gameName>cvpi</gameName>
       <vehicleMakeName />
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>ZENTORNO</audioNameHash>
+      <audioNameHash>police</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>POLICE_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
