@@ -6,7 +6,7 @@
       <Item>
       <modelName>16explorer</modelName>
       <txdName>16explorer</txdName>
-      <handlingId>POLICE3</handlingId>
+      <handlingId>lspd16explorer</handlingId>
       <gameName>16explorer</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>

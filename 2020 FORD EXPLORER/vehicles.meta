@@ -6,7 +6,7 @@
     <Item>
       <modelName>20exp</modelName> <!--CHANGE made by Ferious Development-->
       <txdName>20exp</txdName>
-      <handlingId>GRANGER</handlingId>
+      <handlingId>lspd16explorer</handlingId>
       <gameName>20exp</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
