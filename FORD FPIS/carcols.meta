@@ -5398,6 +5398,17 @@
           <spotLight value="true"/>
           <castShadows value="false"/>
         </Item>
+        <Item>
+          <TextureSetName>Standard White</TextureSetName>                                //A
+          <DiffuseMapName>plate01</DiffuseMapName>                                       //B
+          <NormalMapName>plate01_n</NormalMapName>                                       //C
+          <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>     //D
+          <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>                             //E
+          <FontColor value="0xFF0F2352"/>                                                //F
+          <FontOutlineColor value="0x00FFFFFF"/>                                         //G
+          <IsFontOutlineEnabled value="false"/>                                          //H
+          <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>                        //I
+        </Item>
       </sirens>
     </Item>
   </Sirens>
