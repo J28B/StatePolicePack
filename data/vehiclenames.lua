@@ -24,6 +24,8 @@ Citizen.CreateThread( function()
 
 	AddTextEntry( "polmav", "LEO Helicopter" )
 
+	AddTextEntry( "pdfpiu", "pdfpiu" )
+
 	AddTextEntry( "pranger2", "LEO F350" )
 
 	AddTextEntry( "riot2", "LEO Bearcat" )
