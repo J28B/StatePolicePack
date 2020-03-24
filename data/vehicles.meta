@@ -877,7 +877,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>POLICE</audioNameHash>
+      <audioNameHash>windsor</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>POLICE_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -6764,7 +6764,7 @@
     <Item>
       <modelName>pdcvpi</modelName>
       <txdName>pdcvpi</txdName>
-      <handlingId>FBI</handlingId>
+      <handlingId>REALCVPI</handlingId>
       <gameName>pdcvpi</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
