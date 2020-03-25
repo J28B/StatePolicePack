@@ -493,7 +493,7 @@
         <Item>
       <modelName>pdcharger</modelName>
       <txdName>pdcharger</txdName>
-      <handlingId>FBI</handlingId>
+      <handlingId>police16charger</handlingId>
       <gameName>pdcharger</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
