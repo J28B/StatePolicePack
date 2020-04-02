@@ -8,6 +8,8 @@ Citizen.CreateThread( function()
 
 	AddTextEntry( "14awd", "LEO 14 Charger" )
 
+	AddTextEntry( "16FPIURB", "LEO 16 Explorer" )
+
 	AddTextEntry( "18CHARGERRB", "LEO 18 Charger" )
 
 	AddTextEntry( "20exp", "LEO 20 Explorer" )
@@ -15,8 +17,6 @@ Citizen.CreateThread( function()
 	AddTextEntry( "othercvpi", "LEO Vic" )
 
 	AddTextEntry( "Tau", "LEO FPIS" )
-
-	AddTextEntry("sp7", "LEO Tahoe")
 
 	AddTextEntry( "chargerun1", "LEO 18 Charger" )
 
